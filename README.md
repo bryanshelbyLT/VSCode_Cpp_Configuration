@@ -1,1 +1,3 @@
-Aims to help people configure C++ environment for VSCode.
+After you pull this repository locally, you can write C++ programs.
+
+Enjoy it ! ! !
